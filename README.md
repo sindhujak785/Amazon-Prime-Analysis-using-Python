@@ -87,7 +87,10 @@ Visualizations were created using **Matplotlib** and **Seaborn**.
 
 You can download/view the full Jupyter notebook from
 [Google Drive](https://drive.google.com/file/d/1FeRkDlcWTGyzU8JXBqCVjUZO6D8noYLt/view?usp=sharing).
-[Github](https://github.com/sindhujak785/Amazon-Prime-Analysis-using-Python/blob/main/Sample_EDA_Submission_Template%20(3).ipynb)
+
+
+[Github](https://github.com/sindhujak785/Amazon-Prime-Analysis-using-Python/blob/main/Sample_EDA_Submission_Template%20(3).ipynb).
+---
 
 
 
